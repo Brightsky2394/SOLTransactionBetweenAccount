@@ -93,9 +93,19 @@
      transaction,
      [from]
      )
+     ```
 
    console.log(`Signature is `, signature);
+
    ```
+
+   ```
+
+## Test
+
+Run the code in the CLI (Command Line Interface) or terminal the command:
+`        node index.js
+   `
 
 ## Author
 
