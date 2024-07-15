@@ -2,7 +2,7 @@
 
 ## Step by step procedure are enumerated below:
 
-1. Import solana web3 functionalities (Connection, PublicKey, clusterApiUrl, Keypair, LAMPORTS_PER_SOL, Transaction, SystemProgram and sendAndConfirmTransaction) by requiring "@solana/web3.js"cons
+1. Import solana web3 functionalities (Connection, PublicKey, clusterApiUrl, Keypair, LAMPORTS_PER_SOL, Transaction, SystemProgram and sendAndConfirmTransaction) by requiring "@solana/web3.js"
 
    ```
        const {
@@ -104,8 +104,8 @@
 ## Test
 
 Run the code in the CLI (Command Line Interface) or terminal the command:
-`        node index.js
-   `
+`       node index.js
+  `
 
 ## Author
 
